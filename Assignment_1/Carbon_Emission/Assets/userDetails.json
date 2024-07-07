@@ -1,0 +1,30 @@
+{"UserDetails": [
+    {
+    "name": "William Adams",
+    "email": "williamadams@gmail.com",
+    "inbox": 320,
+    "spam": 21,
+    "sent": 72
+},
+{
+    "name": "Linda Martinez",
+    "email": "lindamartinez@outlook.com",
+    "inbox": 260,
+    "spam": 25,
+    "sent": 68
+},
+{
+    "name": "Thomas Young",
+    "email": "thomasyoung@yahoo.com",
+    "inbox": 290,
+    "spam": 10,
+    "sent": 87
+},
+{
+    "name": "Mary Walker",
+    "email": "marywalker@gmail.com",
+    "inbox": 430,
+    "spam": 11,
+    "sent": 63
+}
+]}
